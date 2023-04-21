@@ -7,4 +7,4 @@ https://github.com/FastLED/FastLED/
 
 Original libraries used at the time of writing are available in the repository.
 
-For more information, read the .docx documentation
+For more information, I would suggest reading the .docx documentation. Unfortunately, it is only available in Croatian.
