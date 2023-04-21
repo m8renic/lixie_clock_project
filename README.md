@@ -3,7 +3,9 @@ In this project I created a clock based on the Arduino platform and used Lixie s
 Said libraries can be found here:
 
 https://www.arduinolibraries.info/libraries/adafruit-tftlcd-library
+
 https://github.com/iot-playground/Arduino/tree/master/external_libraries/DS1302RTC
+
 https://github.com/FastLED/FastLED/
 
 Original libraries used at the time of writing are available in the repository.
